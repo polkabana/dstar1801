@@ -26,6 +26,8 @@ Import contacts from dstar.su database to Baofeng DM-1801 contact list (c) 2020,
 
 `main.zip` скомпилировная версия для Win10 x64
 
+`main.x86.zip` скомпилировная версия для x86
+
 ## Поддержка
 
 Вопросы можно задать в чате https://t.me/qsyby
